@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+.choices {
+    display: flex;
+    padding: 72px;;
+    gap: 24px;
+    * {
+        flex: 1;
+        padding: 24px;
+        font-size: 36px;
+        font-weight: bold;
+    }
+}
